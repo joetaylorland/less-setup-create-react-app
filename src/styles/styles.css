@@ -1,0 +1,18 @@
+html {
+  font-size: 16px;
+}
+.app {
+  padding: 2rem;
+}
+.app__text {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #333;
+}
+.app__text--title {
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: #444;
+}
